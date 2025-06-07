@@ -6,7 +6,7 @@
 ```
 pip install -r requirements.txt
 ```
-你还需要下载ollama或ArgosTranslate模型，更多内容查看config.ini.
+你还需要下载ollama或ArgosTranslate模型[https://drive.google.com/drive/folders/11wxM3Ze7NCgOk_tdtRjwet10DmtvFu3i]，更多内容查看config.ini.
 ## 使用方法
 ```
 gg.py 翻译次数 文件名称或文字
